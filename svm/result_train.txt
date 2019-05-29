@@ -1,0 +1,200 @@
+Cluster 0: windows
+ os
+ ms
+ comp
+ misc
+ apps
+ microsoft
+ file
+ motif
+ win
+Cluster 1: baseball
+ sport
+ hockey
+ game
+ rec
+ team
+ games
+ year
+ players
+ season
+Cluster 2: talk
+ politics
+ misc
+ alt
+ religion
+ abortion
+ guns
+ xref
+ culture
+ state
+Cluster 3: forsale
+ misc
+ sale
+ computers
+ offer
+ other
+ shipping
+ state
+ udel
+ rec
+Cluster 4: graphics
+ comp
+ uk
+ ac
+ au
+ windows
+ mit
+ window
+ file
+ co
+Cluster 5: rutgers
+ christian
+ god
+ athos
+ geneva
+ religion
+ soc
+ igor
+ hedrick
+ aramis
+Cluster 6: rec
+ autos
+ sci
+ car
+ article
+ motorcycles
+ med
+ state
+ like
+ nntp
+Cluster 7: culture
+ soc
+ turkish
+ armenian
+ soviet
+ armenians
+ politics
+ mideast
+ armenia
+ greek
+Cluster 8: sys
+ mac
+ hardware
+ comp
+ ibm
+ pc
+ drive
+ scsi
+ card
+ apple
+Cluster 9: clipper
+ crypt
+ security
+ org
+ key
+ encryption
+ sci
+ eff
+ chip
+ comp
+Cluster 10: cwru
+ cleveland
+ apple
+ freenet
+ ins
+ sandvik
+ reserve
+ western
+ po
+ kent
+Cluster 11: state
+ ohio
+ cc
+ cis
+ mps
+ sei
+ magnus
+ zaphod
+ acs
+ magnesium
+Cluster 12: uiuc
+ cso
+ ux
+ illinois
+ urbana
+ uxa
+ noise
+ owner
+ cobb
+ alexia
+Cluster 13: hp
+ sdd
+ hewlett
+ packard
+ hpscit
+ apollo
+ sc
+ col
+ hpcc
+ boi
+Cluster 14: frank
+ objective
+ livesey
+ sgi
+ solntze
+ morality
+ wpd
+ talk
+ atheism
+ abortion
+Cluster 15: people
+ who
+ god
+ talk
+ politics
+ guns
+ gun
+ israel
+ stratus
+ don
+Cluster 16: space
+ sci
+ nasa
+ gov
+ henry
+ astro
+ digex
+ shuttle
+ alaska
+ access
+Cluster 17: cramer
+ optilink
+ men
+ sex
+ clayton
+ politics
+ gay
+ misc
+ legal
+ homosexual
+Cluster 18: ca
+ ubc
+ canada
+ bc
+ carleton
+ uwaterloo
+ sfu
+ uwo
+ bnr
+ freenet
+Cluster 19: de
+ uni
+ tu
+ informatik
+ berlin
+ germany
+ uka
+ rz
+ dresden
+ ira

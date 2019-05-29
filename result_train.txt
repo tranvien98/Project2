@@ -1,0 +1,200 @@
+Cluster 0: clipper
+ crypt
+ security
+ org
+ key
+ encryption
+ eff
+ chip
+ sci
+ privacy
+Cluster 1: politics
+ talk
+ misc
+ guns
+ alt
+ fbi
+ people
+ soc
+ state
+ who
+Cluster 2: god
+ jesus
+ christian
+ rutgers
+ bible
+ who
+ people
+ faith
+ believe
+ religion
+Cluster 3: space
+ sci
+ nasa
+ gov
+ henry
+ astro
+ alaska
+ shuttle
+ toronto
+ jpl
+Cluster 4: state
+ sci
+ ohio
+ med
+ cc
+ article
+ who
+ mps
+ university
+ electronics
+Cluster 5: talk
+ abortion
+ religion
+ atheism
+ alt
+ misc
+ frank
+ objective
+ morality
+ livesey
+Cluster 6: hp
+ sdd
+ hewlett
+ packard
+ hpscit
+ apollo
+ sc
+ col
+ hpcc
+ boi
+Cluster 7: culture
+ soc
+ turkish
+ armenian
+ soviet
+ armenians
+ politics
+ mideast
+ armenia
+ talk
+Cluster 8: sys
+ mac
+ hardware
+ comp
+ ibm
+ pc
+ drive
+ scsi
+ state
+ apple
+Cluster 9: geb
+ pitt
+ banks
+ gordon
+ dsl
+ jxp
+ chastity
+ cadre
+ skepticism
+ shameful
+Cluster 10: ca
+ ubc
+ canada
+ bnr
+ bc
+ carleton
+ uwaterloo
+ concordia
+ sfu
+ uwo
+Cluster 11: uiuc
+ cso
+ ux
+ illinois
+ urbana
+ uxa
+ noise
+ owner
+ cobb
+ alexia
+Cluster 12: digex
+ access
+ pat
+ express
+ online
+ communications
+ for
+ not
+ sci
+ space
+Cluster 13: windows
+ os
+ ms
+ comp
+ misc
+ apps
+ microsoft
+ file
+ motif
+ win
+Cluster 14: baseball
+ sport
+ hockey
+ game
+ rec
+ team
+ games
+ year
+ players
+ season
+Cluster 15: rutgers
+ christian
+ athos
+ geneva
+ soc
+ religion
+ igor
+ aramis
+ hedrick
+ approved
+Cluster 16: graphics
+ comp
+ uk
+ ac
+ windows
+ au
+ mit
+ window
+ state
+ ohio
+Cluster 17: rec
+ autos
+ car
+ motorcycles
+ bike
+ state
+ ohio
+ dod
+ article
+ cars
+Cluster 18: de
+ uni
+ tu
+ informatik
+ berlin
+ germany
+ rz
+ uka
+ dresden
+ ira
+Cluster 19: forsale
+ misc
+ sale
+ computers
+ state
+ ohio
+ offer
+ shipping
+ udel
+ other
